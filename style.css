@@ -1,0 +1,211 @@
+.kk{
+    display: flex;
+    flex-direction: row;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.neo{
+    width: 20%;
+    height: 100vh;
+    border-right: 1px solid black;
+    background: whitesmoke;
+    position: fixed;
+}
+.ney span{
+    margin-left: 60px;
+    color:  turquoise;
+    font-size: x-large;
+}
+.lin{
+    margin-top: 60px; 
+}
+
+.lin p{
+    
+    color:rgb(21, 175, 137)  ;
+    background-color:#b6f5a6;
+    padding-left: 20px;
+    padding: 15px;
+    
+    
+}
+.lin hr{
+    margin-top: 50px;
+}
+.orz button{
+
+margin-top: 50px;
+color: turquoise;
+width: 100%;
+height: 100px;
+border-style: none;
+
+}
+.orz :hover{
+    background-color: turquoise;
+    color: white;
+}
+.wee{
+
+
+    width: 220px;
+    height: 90px;
+    background-color: white;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 150px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.wee h5{
+    padding-top: 40px;
+    font-style: bold;
+    padding-bottom: 20px;
+}
+.wee h6{
+    margin-right: 30px;
+    
+    
+    
+}
+.wee img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 20px; 
+}
+.eer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.hh{
+    
+    width: 250px;
+    height: 30px;
+    margin-top: 10px;
+    
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+.klk{
+    width: 70%;
+    padding: 1% 5% 0 5%;
+    
+    margin-left: 18%;
+}
+.tt{
+    background-color:beige;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+.ii{
+    display: flex;
+    flex-direction: row;
+}
+.ii button{
+    height: 30px;
+    margin-left: 90px;
+    width: 100px;
+    margin-top: 15px;
+    color: turquoise;
+    background-color: beige;
+    border-color: turquoise;
+    border-style: none;
+    
+}
+
+.tt button{ 
+    width: 180px;
+    height: 30px;
+    background-color: white; 
+}
+.oo{
+    margin-top: 20px;
+    
+    
+    
+    width: 298px;
+    background-color:beige;
+}
+
+.yy button{
+    margin-left: 450px;
+    border-style: none;
+    border-radius: 3px;
+}
+.ww button{
+    background-color: #b6f5a6;
+    margin-right: 20px;
+    border-style: none;
+    border-radius: 3px;
+}
+.qq{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+.qq img{
+    width: 50px;
+    height: 20px;
+}
+.hh{
+    border: none;
+    font-size: large;
+    margin-bottom: 10px;
+}
+.bb button{
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    font-size: x-large;
+    border-style: none;
+    background-color: #3fb38c;
+    color: white;
+    position: fixed;
+    right: 3%;
+    bottom: 3%;
+    
+}
+ .bb{
+     display: flex;
+     flex-direction: row-reverse;
+ }
+.bb :hover{
+    background-color: rgb(83, 202, 67);
+    color: white;
+    border-style: none;
+}
+.aa{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    row-gap: 5%;
+    position: relative;
+    top: 15%;
+    overflow-y: scroll;
+  
+}
+.vv{
+    position: fixed;
+    background-color: white;
+}
+
+    
+
+
+
+
+
